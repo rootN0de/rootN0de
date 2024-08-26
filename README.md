@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-My name is Müjgan Gündüz. I am a Dentist with a Ph.D. in Radiology, and I currently work as a lecturer at Cyprus International University. Throughout my academic and professional career, I have specialized in radiology and dentistry, contributing valuable research and insights in these fields. I have published several articles in reputable international journals, sharing my expertise and findings with the broader academic community. My work primarily focuses on imaging techniques and radiological assessments in dentistry, with the goal of advancing knowledge and improving practices in the field.
+My name is Müjgan Gündüz. I am a Dentist with a Ph.D. in Radiology, currently working as a lecturer at Cyprus International University. With a solid foundation in both radiology and dentistry, I have dedicated my academic and professional career to advancing these fields through research, teaching, and practice.
 
-- 🔭 I’m currently working on Cyprus International University
-- 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about Dentistry, AI and where it's leading us to.
+I have published numerous articles in reputable international journals, contributing valuable insights into dental imaging techniques and radiological assessments. My work aims to push the boundaries of knowledge, enhancing clinical practices and improving patient outcomes.
+
+🔭 Currently, I’m a lecturer at Cyprus International University.
+🌱 Learning: I'm expanding my skills in C#, exploring its applications in healthcare and technology.
+👯 Looking to collaborate on: Innovative research in dentistry, radiology, and interdisciplinary projects involving AI in healthcare.
+💬 Ask me about: Dentistry, radiology, and the future of AI in healthcare.
+
+My research portfolio is available on ORCID iD: 0000-0001-8827-7052.
